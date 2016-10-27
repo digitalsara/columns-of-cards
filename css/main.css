@@ -78,3 +78,9 @@ dt {
 dd {
   margin: 0;
 }
+
+a {
+  background-color: #333;
+  color: #e2e2e2;
+  text-decoration: none;
+}
