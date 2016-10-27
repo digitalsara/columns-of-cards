@@ -27,18 +27,26 @@ img {
 
 .col {
   background-color: #e2e2e2;
+  float: left;
+  width: 25%;
 }
 
 .col2 {
   background-color: #ccc;
+  float: left;
+  width: 25%;
 }
 
 .col3 {
   background-color: #aaa;
+  float: left;
+  width: 25%;
 }
 
 .col4 {
   background-color: #999;
+  float: left;
+  width: 25%;
 }
 
 dt {
