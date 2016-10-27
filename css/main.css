@@ -36,24 +36,24 @@ img {
 
 .col {
   background-color: #e2e2e2;
-  border: solid #ccc;
-  border-width: 0 0 0 3px;
+  border: solid #333;
+  border-width: 0 0 0 1px;
   float: left;
   width: 25%;
 }
 
 .col2 {
   background-color: #ccc;
-  border: solid #aaa;
-  border-width: 0 0 0 3px;
+  border: solid #333;
+  border-width: 0 0 0 1px;
   float: left;
   width: 25%;
 }
 
 .col3 {
   background-color: #aaa;
-  border: solid #999;
-  border-width: 0 0 0 3px;
+  border: solid #333;
+  border-width: 0 0 0 1px;
   float: left;
   width: 25%;
 }
@@ -61,7 +61,7 @@ img {
 .col4 {
   background-color: #999;
   border: solid #333;
-  border-width: 0 0 0 3px;
+  border-width: 0 0 0 1px;
   float: left;
   width: 25%;
 }
