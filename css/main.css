@@ -25,26 +25,43 @@ img {
   width: 10em;
 }
 
+/*.columns {
+  border: 3px solid #999;
+  overflow: hidden;
+}*/
+
+.columns {
+  padding: 1.5rem;
+}
+
 .col {
   background-color: #e2e2e2;
+  border: solid #ccc;
+  border-width: 0 0 0 3px;
   float: left;
   width: 25%;
 }
 
 .col2 {
   background-color: #ccc;
+  border: solid #aaa;
+  border-width: 0 0 0 3px;
   float: left;
   width: 25%;
 }
 
 .col3 {
   background-color: #aaa;
+  border: solid #999;
+  border-width: 0 0 0 3px;
   float: left;
   width: 25%;
 }
 
 .col4 {
   background-color: #999;
+  border: solid #333;
+  border-width: 0 0 0 3px;
   float: left;
   width: 25%;
 }
