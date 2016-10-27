@@ -66,6 +66,10 @@ img {
   width: 25%;
 }
 
+dl {
+  padding: 1rem;
+}
+
 dt {
   font-weight: bold;
 }
