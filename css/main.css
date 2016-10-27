@@ -15,6 +15,13 @@ body {
 h1 {
   font-size: 2rem;
   text-align: center;
+  margin-top: 23px;
+  margin-bottom: 5.56px;
+}
+
+h2 {
+  font-size: 1rem;
+  margin: 0;
 }
 
 img {
@@ -61,14 +68,6 @@ img {
   width: 25%;
 }
 
-dl {
-  padding: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
 .author {
   font-style: italic;
   font-size: .75rem;
@@ -85,7 +84,11 @@ dd {
   display: inline-block;
   font-size: .875rem;
   margin: .3rem;
-  padding: .4em .75em .4em;
+  padding: .8em .75em;
   text-decoration: none;
   text-align: center;
+}
+
+.btn:hover {
+  background-color: #000;
 }
